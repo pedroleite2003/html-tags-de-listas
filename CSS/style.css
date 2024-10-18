@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    color: red;
+    font-weight: normal;
+    font-size: 60px;
+    text-transform: uppercase; /*caixa auta*/
+}
+
+ol,ul{
+    color: blue;
+}
+
+#x{
+    color: green;
+}
